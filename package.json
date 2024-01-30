@@ -9,7 +9,7 @@
     "dev": "tsx --watch ./src/server.ts"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marcos Parreiras",
   "license": "ISC",
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",
